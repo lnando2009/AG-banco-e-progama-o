@@ -1,0 +1,57 @@
+main{
+  width: 100%;
+  height: 100vh;
+  float: left;
+  background: #ccc;
+}
+section{
+  width: 100%;
+  height: 80vh;
+  background: #83bbf0;
+}
+section img{
+  width: 60%;
+  height: 45vh;
+  margin-left: 20%;
+  margin-top: 10vh;
+}
+footer{
+  width: 100%;
+  height: 50vh;
+  background: #57c0e0;
+}
+footer small{
+  width: 100%;
+  text-align: center;
+  float: left;
+  margin-top: 4vh;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 0.9rem;
+  font-weight: bold;
+}
+#social{
+  width: 60%;
+  height: 15vh;
+  float: left;
+  margin-left: 5%;
+  margin-top: 2vh;
+  /* background: red; */
+}
+.rs{
+  width: 25%;
+  height: auto;
+  aspect-ratio: 1/1;
+  float: left;
+  background: #ffffff;
+  margin-left: 6.6%;
+  margin-top: 2vh;
+  border-radius: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.icone{
+  width: 50%;
+  height: auto;
+  color: #ff00cc;
+}
